@@ -132,6 +132,11 @@ I'm a Computer Science undergraduate passionate about turning raw data into acti
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OneAboveAll-hub&theme=github-dark-blue&hide_border=true"/>
 </p>
+---
+## 📈 Contribution Activity
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OneAboveAll-hub&theme=github-dark)](https://github.com/OneAboveAll-hub)
+
 ## 🐍 Contribution Graph
 
 <p align="center">
@@ -147,6 +152,13 @@ I'm a Computer Science undergraduate passionate about turning raw data into acti
 - 🔗 Distributed Systems & Consensus Protocols
 
 ---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/shaikmahemood
+- Email: mahemood2244@gmail.com
+- GitHub: https://github.com/OneAboveAll-hub
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=OneAboveAll-hub&color=58a6ff&style=flat&label=Profile+Views"/>
