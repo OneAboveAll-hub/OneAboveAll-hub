@@ -116,7 +116,12 @@ I'm a Computer Science undergraduate passionate about turning raw data into acti
 - ⚛️ **Introduction to Quantum Computing** – IIT Kharagpur
 
 ---
+## 🏆 GitHub Achievements
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=OneAboveAll-hub&theme=algolia&no-frame=true&row=1&column=6"/>
+</p>
+---
 ## 📊 GitHub Stats
 
 <p align="center">
