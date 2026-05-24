@@ -127,7 +127,11 @@ I'm a Computer Science undergraduate passionate about turning raw data into acti
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OneAboveAll-hub&theme=github-dark-blue&hide_border=true"/>
 </p>
+## 🐍 Contribution Graph
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 ---
 
 ## 🌱 Currently Learning
