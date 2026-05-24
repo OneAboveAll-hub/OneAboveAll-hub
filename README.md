@@ -1,4 +1,7 @@
 <h1 align="center">Hi there, I'm Shaik Mahemood 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Science+Student;Machine+Learning+Enthusiast;NLP+%7C+Cloud+%7C+AI+Developer;Building+Intelligent+Systems+with+AI" />
+</p>
 
 <p align="center">
   <b>BTech CS (Data Science) · R.V.R &amp; JC College of Engineering · CGPA: 8.79</b><br>
