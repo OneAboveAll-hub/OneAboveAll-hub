@@ -5,7 +5,7 @@
 
 <p align="center">
   <b>BTech CS (Data Science) · R.V.R &amp; JC College of Engineering · CGPA: 8.79</b><br>
-  <i>Building intelligent systems at the intersection of ML, NLP, and Cloud</i>
+ <i>Passionate about AI, Machine Learning, NLP, Cloud Computing, and building impactful real-world solutions.</i>
 </p>
 
 <p align="center">
